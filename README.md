@@ -1,3 +1,4 @@
 # pushover for Motinyeye
 Tutorial comming soon. <br />
-As long as file has executible permissions it'll work fine. 
+As long as file has executible permissions it'll work fine. <br />
+Insert your pushover credentials.
