@@ -5,7 +5,8 @@ As long as file has executible permissions it'll work fine. `chmod +x filename.s
 Insert your pushover credentials. **Examples:**  
 `YOUR_TOKEN_HERE` `YOUR_USER_KEY_HERE` `YOUR_PUSHOVER_DEVICE_NAME(S)_HERE` `YOUR_PUSHOVER_SOUND_HERE`  
 `YOUR_TITLE_HERE` `YOUR_URL_HERE`  
-[Pushover API](https://pushover.net/api)  
+[Pushover API](https://pushover.net/api) 
+## Sounds
 <ul>
         <li><code>pushover</code> - Pushover (default)
           &nbsp;
